@@ -1,0 +1,72 @@
+/*!*******************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[5].use[3]!./src/components/book-item.module.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************/
+.book-item_container__9dTGW {
+  display: flex;
+  gap: 15px;
+  padding: 20px 10px;
+  border-bottom: 1px solid rgb(220, 220, 220);
+
+  color: black;
+  text-decoration: none;
+}
+
+.book-item_container__9dTGW img {
+  width: 80px;
+}
+
+.book-item_title__68Gv9 {
+  font-weight: bold;
+}
+
+.book-item_subTitle__qLFzP {
+  word-break: keep-all;
+}
+
+.book-item_author__gZbmo {
+  color: gray;
+}
+
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[5].use[3]!./src/components/skeleton/book-item-skeleton.module.css ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************/
+.book-item-skeleton_container__3hDet {
+  .book-item-skeleton_container__3hDet {
+    display: flex;
+    gap: 15px;
+    padding: 20px 10px;
+    border-bottom: 1px solid rgb(220, 220, 220);
+  }
+}
+
+.book-item-skeleton_cover_img__THxTR {
+  width: 80px;
+  height: 105px;
+  background-color: rgb(230, 230, 230);
+}
+
+.book-item-skeleton_info_container__XBNA_ {
+  flex: 1 1;
+}
+
+.book-item-skeleton_title__xgUrP,
+.book-item-skeleton_subTitle__NYjBe,
+.book-item-skeleton_author__K2ifu {
+  width: 100%;
+  height: 20px;
+  background-color: rgb(230, 230, 230);
+}
+
+/*!************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[5].use[3]!./src/app/(with-searchbar)/page.module.css ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************/
+.page_container__xfmXa {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.page_container__xfmXa h3 {
+  margin-bottom: 0px;
+}
+
